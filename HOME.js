@@ -7,6 +7,7 @@
  * Code subject to change.
  **/
 
+
 if (window.console==null) { window["console"] = { log : function() {} } }; // some browsers do not set console
 
 var Application = function() {
@@ -2906,3 +2907,9 @@ var Application = function() {
 }
 
 window.application = new Application();
+
+var btn = document.querySelector("#back-to-top");
+
+btn.addEventListener("click", function() {
+    window.scrollTo(0, 0);
+});

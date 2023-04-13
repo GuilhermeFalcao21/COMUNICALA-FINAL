@@ -15,7 +15,27 @@ BODY{
 	padding: 0;
 	box-sizing: border-box;
 	border: none;
+	font-family: Arial, Helvetica, sans-serif;
+	
 }
+.carousel-inner{
+	width: 500px;
+	padding-right: 50px;
+	
+	
+
+}
+#back-to-top {
+	position: fixed;
+	bottom: 50px;
+	right: 50px;
+  }
+  .arrow {
+	border: solid;
+	border-width: 0 7px 7px 0;
+	padding: 5px;
+	display: inline-block;
+  }
 #HOME {
 	position: RELATIVE;
 	width: 1310px;
@@ -62,7 +82,21 @@ BODY{
 }
 #Retngulo_1 {
 	fill: transparent;
+	
 }
+.nav{
+	color: #c6d8d3;
+}
+.nav:hover {
+	color: orange;
+  }
+
+  .nav-active {
+	color: orange;
+  }
+  
+
+
 .Retngulo_1 {
 	position: absolute;
 	overflow: visible;
@@ -286,7 +320,7 @@ BODY{
 	font-family: Helvetica Neue;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 27px;
+	font-size: 20px;
 	color: rgba(112,112,112,1);
 }
 #Retngulo_3 {
@@ -319,6 +353,12 @@ BODY{
 	font-weight: lighter;
 	font-size: 30px;
 	color: rgba(255,255,255,1);
+	
+}
+#SAIBA_MAIS p {
+	color: white;
+	font-family: Helvetica Neue;
+	font-style: normal;
 }
 #Caminho_1 {
 	fill: transparent;
@@ -382,9 +422,11 @@ BODY{
 	position: absolute;
 	width: 14.389px;
 	height: 14.389px;
-	left: 0px;
+	
 	top: 0px;
+	right: 20px;
 	overflow: visible;
+	
 }
 #n_023_-_TODOS_OS_DIREITOS_RESE {
 	left: 0px;
@@ -393,11 +435,12 @@ BODY{
 	overflow: visible;
 	width: 325px;
 	height: 29px;
-	text-align: left;
+	text-align: center;
 	font-family: Helvetica Neue;
 	font-style: normal;
 	font-weight: lighter;
-	font-size: 17px;
+	font-size: 13px;
+	margin: auto;
 	color: rgba(247,247,242,1);
 }
 #LOGO_OFICIAL_COM_FUNDO_bb {
@@ -581,4 +624,17 @@ BODY{
 
 #SOBRE_bh a{
 	color: #c6d8d3;
+}
+
+#carouselExampleIndicators{
+	width: 100%;	
+	height: 100%;
+	margin: auto;
+	bottom: -400px;
+	right: 350px;
+	display: grid;
+}
+
+.carousel-control-prev-icon{
+
 }

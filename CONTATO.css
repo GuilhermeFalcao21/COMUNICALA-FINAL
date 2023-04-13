@@ -15,6 +15,7 @@ body{
 	padding: 0;
 	box-sizing: border-box;
 	border: none;
+	font-family: Arial, Helvetica, sans-serif
 }
 #CONTATO {
 	position: relative;
@@ -39,6 +40,12 @@ body{
 
 
 }
+.nav{
+	color: #3A3335;
+}
+.nav:hover {
+	color: orange;
+  }
 #comtato {
 	position: absolute;
 	width: 677px;
@@ -392,7 +399,7 @@ body{
 	font-family: Helvetica Neue;
 	font-style: normal;
 	font-weight: lighter;
-	font-size: 17px;
+	font-size: 15px;
 	color: rgba(198,216,211,1);
 }
 #A_Comunicala_vem_com_a_propost_fx {
