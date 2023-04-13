@@ -1,0 +1,566 @@
+.mediaViewInfo {
+	--web-view-name: CONTATO;
+	--web-view-id: CONTATO;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: CONTATO;
+}
+body{
+    background-color: rgba(245,243,239,1);
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#CONTATO {
+	position: relative;
+	width: 1310px;
+	height: 1350px;
+	background-color: rgba(245,243,239,1);
+	margin: auto;
+	--web-view-name: CONTATO;
+	--web-view-id: CONTATO;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+#comtato {
+	position: absolute;
+	width: 677px;
+	height: 833px;
+	left: 583px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_43 {
+	position: absolute;
+	width: 1090px;
+	height: 77px;
+	left: 110px;
+	top: 0px;
+	overflow: visible;
+}
+#Retngulo_1_e {
+	fill: transparent;
+}
+.Retngulo_1_e {
+	position: absolute;
+	overflow: visible;
+	width: 1090px;
+	height: 77px;
+	left: 0px;
+	top: 0px;
+}
+#HOME_e {
+	left: 731.606px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: HOME.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(112,112,112,1);
+}
+#SOBRE_e {
+	left: 811.941px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: SOBRE.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(112,112,112,1);
+}
+#SERVIOS_fa {
+	left: 893px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: SERVICOS.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(112,112,112,1);
+}
+#CONTATO_fb {
+	left: 1012px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(112,112,112,1);
+}
+#COMUNICALA_fc {
+	left: 18px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 114px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(112,112,112,1);
+}
+#contato {
+	position: absolute;
+	width: 229px;
+	height: 69px;
+	left: 51px;
+	top: 159px;
+	overflow: visible;
+}
+#Retngulo_57 {
+	fill: rgba(247,147,30,1);
+}
+.Retngulo_57 {
+	position: absolute;
+	overflow: visible;
+	width: 176px;
+	height: 51px;
+	left: 355.977px;
+	top: 657px;
+}
+#Enviar {
+	left: 387.671px;
+	top: 672px;
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	height: 26px;
+	line-height: 80px;
+	margin-top: -29px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#Retngulo_58 {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_58 {
+	position: absolute;
+	overflow: visible;
+	width: 448px;
+	height: 51px;
+	left: 110px;
+	top: 256px;
+}
+#Retngulo_59 {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_59 {
+	position: absolute;
+	overflow: visible;
+	width: 448px;
+	height: 51px;
+	left: 110px;
+	top: 318px;
+}
+#Retngulo_60 {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_60 {
+	position: absolute;
+	overflow: visible;
+	width: 448px;
+	height: 52px;
+	left: 110px;
+	top: 381px;
+}
+#Retngulo_61 {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_61 {
+	position: absolute;
+	overflow: visible;
+	width: 448px;
+	height: 193px;
+	left: 110px;
+	top: 445px;
+}
+#Nome {
+	left: 110px;
+	top: 270px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	height: 18px;
+	line-height: 80px;
+	margin-top: -32.5px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(58,51,53,1);
+	text-transform: uppercase;
+}
+#E-mail {
+	left: 110px;
+	top: 333px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	height: 18px;
+	line-height: 80px;
+	margin-top: -32.5px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(58,51,53,1);
+	text-transform: uppercase;
+}
+#Assunto {
+	left: 110px;
+	top: 397px;
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	height: 18px;
+	line-height: 80px;
+	margin-top: -32.5px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(58,51,53,1);
+	text-transform: uppercase;
+}
+#Diga_a_sua_mensagem_aqui {
+	left: 110px;
+	top: 471px;
+	position: absolute;
+	overflow: visible;
+	width: 269px;
+	height: 18px;
+	line-height: 80px;
+	margin-top: -32.5px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(58,51,53,1);
+	text-transform: uppercase;
+}
+#Grupo_46 {
+	position: absolute;
+	width: 1210px;
+	height: 585px;
+	left: 50px;
+	top: 794px;
+	overflow: visible;
+}
+#Retngulo_62 {
+	fill: rgba(58,51,53,1);
+}
+.Retngulo_62 {
+	position: absolute;
+	overflow: visible;
+	width: 1210px;
+	height: 581px;
+	left: 0px;
+	top: 0px;
+}
+#Caminho_39 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Caminho_39 {
+	overflow: visible;
+	position: absolute;
+	width: 3px;
+	height: 371.71px;
+	left: 605px;
+	top: 34.857px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#GUILHERME_FALCO__STUDIORLSKULL_fr {
+	left: 489.524px;
+	top: 433px;
+	position: absolute;
+	overflow: visible;
+	width: 231px;
+	white-space: nowrap;
+	line-height: 23px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(198,216,211,1);
+}
+#Grupo_44 {
+	position: absolute;
+	width: 338.694px;
+	height: 29px;
+	left: 435.981px;
+	top: 448px;
+	overflow: visible;
+}
+#Grupo_3_ft {
+	position: absolute;
+	width: 14.389px;
+	height: 14.389px;
+	left: 324.306px;
+	top: 2.806px;
+	overflow: visible;
+}
+#Grupo_35_fu {
+	position: absolute;
+	width: 14.389px;
+	height: 14.389px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_34_fv {
+	position: absolute;
+	width: 14.389px;
+	height: 14.389px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_023_-_TODOS_OS_DIREITOS_RESE_fw {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 325px;
+	height: 29px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 17px;
+	color: rgba(198,216,211,1);
+}
+#A_Comunicala_vem_com_a_propost_fx {
+	left: 91px;
+	top: 222px;
+	position: absolute;
+	overflow: visible;
+	width: 182px;
+	height: 185px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(198,216,211,1);
+}
+#MAPA_DO_SITE_fy {
+	left: 370.906px;
+	top: 102px;
+	position: absolute;
+	overflow: visible;
+	width: 138px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(247,147,30,1);
+}
+#HOME_fz {
+	left: 458.507px;
+	top: 163px;
+	position: absolute;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(198,216,211,1);
+}
+#SERVIOS_f {
+	left: 457.984px;
+	top: 279px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(198,216,211,1);
+}
+#CONTATO_f {
+	left: 459.987px;
+	top: 337px;
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(198,216,211,1);
+}
+#SOBRE_f {
+	left: 458.387px;
+	top: 221px;
+	position: absolute;
+	overflow: visible;
+	width: 52px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(198,216,211,1);
+}
+#CONTATOS_f {
+	left: 830.132px;
+	top: 102px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(247,147,30,1);
+}
+#telefone_f {
+	position: absolute;
+	width: 55.39px;
+	height: 55.39px;
+	left: 738.453px;
+	top: 180px;
+	overflow: visible;
+}
+#n_1_99931-7989_f {
+	left: 825.993px;
+	top: 194.576px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(198,216,211,1);
+}
+#Grupo_45 {
+	position: absolute;
+	width: 361.147px;
+	height: 40.246px;
+	left: 698.265px;
+	top: 324.754px;
+	overflow: visible;
+}
+#LOGO_OFICIAL_COM_FUNDO_f {
+	position: absolute;
+	width: 137px;
+	height: 137px;
+	left: 113px;
+	top: 56px;
+	overflow: visible;
+}
+#Retngulo_64 {
+	fill: rgba(198,216,211,1);
+}
+.Retngulo_64 {
+	position: absolute;
+	overflow: visible;
+	width: 1210px;
+	height: 99px;
+	left: 0px;
+	top: 486px;
+}
+#Retngulo_65 {
+	fill: rgba(247,147,30,1);
+}
+.Retngulo_65 {
+	position: absolute;
+	overflow: visible;
+	width: 1210px;
+	height: 50px;
+	left: 0px;
+	top: 507px;
+}
+#Retngulo_66 {
+	fill: rgba(241,90,36,1);
+}
+.Retngulo_66 {
+	position: absolute;
+	overflow: visible;
+	width: 1210px;
+	height: 25px;
+	left: 0px;
+	top: 532px;
+}

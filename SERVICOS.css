@@ -1,0 +1,641 @@
+.mediaViewInfo {
+	--web-view-name: SERVICOS;
+	--web-view-id: SERVICOS;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: SERVICOS;
+}
+body{
+    background-color: rgba(245,243,239,1);
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#SERVICOS {
+	position: relative;
+	width: 1310px;
+	height: 4396px;
+	background-color: rgba(245,243,239,1);
+	margin: auto;
+	--web-view-name: SERVICOS;
+	--web-view-id: SERVICOS;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+#Retngulo_54 {
+	fill: rgba(58,51,53,1);
+}
+.Retngulo_54 {
+	position: absolute;
+	overflow: visible;
+	width: 1210px;
+	height: 581px;
+	left: 50px;
+	top: 3838px;
+}
+#Grupo_42_dp {
+	position: absolute;
+	width: 1090px;
+	height: 77px;
+	left: 110px;
+	top: 0px;
+	overflow: visible;
+}
+#Retngulo_1_dq {
+	fill: transparent;
+}
+.Retngulo_1_dq {
+	position: absolute;
+	overflow: visible;
+	width: 1090px;
+	height: 77px;
+	left: 0px;
+	top: 0px;
+}
+#HOME_dr {
+	left: 731.606px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: HOME.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(112,112,112,1);
+}
+#SOBRE_ds {
+	left: 811.941px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: SOBRE.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(112,112,112,1);
+}
+#SERVIOS_dt {
+	left: 893px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(112,112,112,1);
+}
+#CONTATO_du {
+	left: 1012px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: CONTATO.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(112,112,112,1);
+}
+#COMUNICALA_dv {
+	left: 18px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 114px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(112,112,112,1);
+}
+#servico_01 {
+	position: absolute;
+	width: 666px;
+	height: 532px;
+	left: 322px;
+	top: 235px;
+	overflow: visible;
+}
+#NossoS_SERVIOS {
+	left: 295px;
+	top: 158px;
+	position: absolute;
+	overflow: visible;
+	width: 722px;
+	height: 55px;
+	line-height: 80px;
+	margin-top: -16.5px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 47px;
+	color: rgba(58,51,53,1);
+	text-transform: uppercase;
+}
+#TRADUO_Mais_especificamente_si {
+	left: 220px;
+	top: 977px;
+	position: absolute;
+	overflow: visible;
+	width: 872px;
+	height: 308px;
+	line-height: 40px;
+	margin-top: -10px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(126,128,131,1);
+}
+#NO_PAR_LINGUSTICO_LIBRAS_PORTU {
+	left: 208px;
+	top: 916px;
+	position: absolute;
+	overflow: visible;
+	width: 896px;
+	height: 35px;
+	line-height: 80px;
+	margin-top: -25px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(241,90,36,1);
+	text-transform: uppercase;
+}
+#traducao_e_interpretacao {
+	position: absolute;
+	width: 507px;
+	height: 49px;
+	left: 401.967px;
+	top: 863px;
+	overflow: visible;
+}
+#servicos_02 {
+	position: absolute;
+	width: 237.74px;
+	height: 226.122px;
+	left: 29.63px;
+	top: 1274px;
+	overflow: visible;
+}
+#servicos_03 {
+	position: absolute;
+	width: 237.74px;
+	height: 226.122px;
+	left: 231.073px;
+	top: 1274px;
+	overflow: visible;
+}
+#servicos_04 {
+	position: absolute;
+	width: 237.74px;
+	height: 226.122px;
+	left: 434.451px;
+	top: 1275px;
+	overflow: visible;
+}
+#servicos_05 {
+	position: absolute;
+	width: 237.74px;
+	height: 226.122px;
+	left: 637.83px;
+	top: 1275px;
+	overflow: visible;
+}
+#servicos_06 {
+	position: absolute;
+	width: 237.74px;
+	height: 226.122px;
+	left: 840.258px;
+	top: 1276px;
+	overflow: visible;
+}
+#servicos_07 {
+	position: absolute;
+	width: 237.74px;
+	height: 226.122px;
+	left: 1042.63px;
+	top: 1276px;
+	overflow: visible;
+}
+#Retngulo_36 {
+	fill: rgba(58,51,53,1);
+}
+.Retngulo_36 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1228px;
+	height: 785px;
+	left: 50px;
+	top: 1535px;
+}
+#AD {
+	position: absolute;
+	width: 432px;
+	height: 158px;
+	left: 439px;
+	top: 1664px;
+	overflow: visible;
+}
+#Recurso_de_acessibilidade_comu {
+	left: 244px;
+	top: 1974px;
+	position: absolute;
+	overflow: visible;
+	width: 824px;
+	height: 181px;
+	line-height: 40px;
+	margin-top: -10px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(174,175,179,1);
+}
+#audiodescricao {
+	position: absolute;
+	width: 276px;
+	height: 46px;
+	left: 517px;
+	top: 1896px;
+	overflow: visible;
+}
+#servico_legenda {
+	position: absolute;
+	width: 526px;
+	height: 293px;
+	left: 392px;
+	top: 2428px;
+	overflow: visible;
+}
+#Recurso_que_auxilia_todas_as_p {
+	left: 292px;
+	top: 2846px;
+	position: absolute;
+	overflow: visible;
+	width: 728px;
+	height: 161px;
+	line-height: 40px;
+	margin-top: -10px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(126,128,131,1);
+}
+#legenda {
+	position: absolute;
+	width: 175px;
+	height: 53px;
+	left: 567.977px;
+	top: 2761px;
+	overflow: visible;
+}
+#servico_edicao {
+	position: absolute;
+	width: 526px;
+	height: 292px;
+	left: 392px;
+	top: 3129px;
+	overflow: visible;
+}
+#DA_JANELA_DE_LIBRAS {
+	left: 172px;
+	top: 3510.568px;
+	position: absolute;
+	overflow: visible;
+	width: 952px;
+	height: 35px;
+	line-height: 80px;
+	margin-top: -25px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(241,90,36,1);
+	text-transform: uppercase;
+}
+#edicao_e_insercao {
+	position: absolute;
+	width: 343px;
+	height: 49.568px;
+	left: 483.5px;
+	top: 3461px;
+	overflow: visible;
+}
+#Espao_delimitado_no_vdeo_em_qu {
+	left: 367.965px;
+	top: 3578px;
+	position: absolute;
+	overflow: visible;
+	width: 576px;
+	height: 117px;
+	line-height: 40px;
+	margin-top: -10px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(126,128,131,1);
+}
+#Caminho_29_ei {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Caminho_29_ei {
+	overflow: visible;
+	position: absolute;
+	width: 3px;
+	height: 371.71px;
+	left: 655px;
+	top: 3872.857px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#GUILHERME_FALCO__STUDIORLSKULL_ej {
+	left: 539.525px;
+	top: 4271px;
+	position: absolute;
+	overflow: visible;
+	width: 231px;
+	white-space: nowrap;
+	line-height: 23px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(198,216,211,1);
+}
+#Grupo_39_ek {
+	position: absolute;
+	width: 338.694px;
+	height: 29px;
+	left: 485.981px;
+	top: 4286px;
+	overflow: visible;
+}
+#Grupo_3_el {
+	position: absolute;
+	width: 14.389px;
+	height: 14.389px;
+	left: 324.306px;
+	top: 2.806px;
+	overflow: visible;
+}
+#Grupo_35_em {
+	position: absolute;
+	width: 14.389px;
+	height: 14.389px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_34_en {
+	position: absolute;
+	width: 14.389px;
+	height: 14.389px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_023_-_TODOS_OS_DIREITOS_RESE_eo {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 325px;
+	height: 29px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 17px;
+	color: rgba(198,216,211,1);
+}
+#A_Comunicala_vem_com_a_propost_ep {
+	left: 141px;
+	top: 4060px;
+	position: absolute;
+	overflow: visible;
+	width: 182px;
+	height: 185px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(198,216,211,1);
+}
+#MAPA_DO_SITE_eq {
+	left: 420.906px;
+	top: 3940px;
+	position: absolute;
+	overflow: visible;
+	width: 138px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(247,147,30,1);
+}
+#HOME_er {
+	left: 508.507px;
+	top: 4001px;
+	position: absolute;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(198,216,211,1);
+}
+#SERVIOS_es {
+	left: 507.985px;
+	top: 4117px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(198,216,211,1);
+}
+#CONTATO_et {
+	left: 509.987px;
+	top: 4175px;
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(198,216,211,1);
+}
+#SOBRE_eu {
+	left: 508.387px;
+	top: 4059px;
+	position: absolute;
+	overflow: visible;
+	width: 52px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(198,216,211,1);
+}
+#CONTATOS_ev {
+	left: 880.132px;
+	top: 3940px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(247,147,30,1);
+}
+#telefone_ew {
+	position: absolute;
+	width: 55.39px;
+	height: 55.39px;
+	left: 788.453px;
+	top: 4018px;
+	overflow: visible;
+}
+#n_1_99931-7989_ex {
+	left: 875.993px;
+	top: 4032.576px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(198,216,211,1);
+}
+#Grupo_40_ey {
+	position: absolute;
+	width: 361.147px;
+	height: 40.246px;
+	left: 748.265px;
+	top: 4162.754px;
+	overflow: visible;
+}
+#LOGO_OFICIAL_COM_FUNDO_ez {
+	position: absolute;
+	width: 137px;
+	height: 137px;
+	left: 163px;
+	top: 3894px;
+	overflow: visible;
+}
+#Retngulo_51_e {
+	fill: rgba(247,247,242,1);
+}
+.Retngulo_51_e {
+	position: absolute;
+	overflow: visible;
+	width: 1210px;
+	height: 99px;
+	left: 50px;
+	top: 4324px;
+}
+#Retngulo_52_e {
+	fill: rgba(247,147,30,1);
+}
+.Retngulo_52_e {
+	position: absolute;
+	overflow: visible;
+	width: 1210px;
+	height: 50px;
+	left: 50px;
+	top: 4345px;
+}
+#Retngulo_53_e {
+	fill: rgba(241,90,36,1);
+}
+.Retngulo_53_e {
+	position: absolute;
+	overflow: visible;
+	width: 1210px;
+	height: 25px;
+	left: 50px;
+	top: 4370px;
+}

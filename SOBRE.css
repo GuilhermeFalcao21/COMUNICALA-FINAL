@@ -1,0 +1,823 @@
+.mediaViewInfo {
+	--web-view-name: SOBRE;
+	--web-view-id: SOBRE;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: SOBRE;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+BODY{
+    background-color: rgba(245,243,239,1);
+}
+#SOBRE {
+	position: relative;
+	width: 1310px;
+	height: 7542px;
+	background-color: rgba(245,243,239,1);
+	margin: auto;
+	--web-view-name: SOBRE;
+	--web-view-id: SOBRE;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+#Grupo_42 {
+	position: absolute;
+	width: 1210px;
+	height: 6983px;
+	left: 50px;
+	top: 0px;
+	overflow: visible;
+}
+#Retngulo_34 {
+	fill: rgba(247,147,30,1);
+}
+.Retngulo_34 {
+	position: absolute;
+	overflow: visible;
+	width: 1210px;
+	height: 107px;
+	left: 0px;
+	top: 4613px;
+}
+#Retngulo_35 {
+	fill: rgba(247,147,30,1);
+}
+.Retngulo_35 {
+	position: absolute;
+	overflow: visible;
+	width: 1210px;
+	height: 121px;
+	left: 0px;
+	top: 6862px;
+}
+#Grupo_41 {
+	position: absolute;
+	width: 1090px;
+	height: 77px;
+	left: 60px;
+	top: 0px;
+	overflow: visible;
+}
+#Retngulo_1_bv {
+	fill: transparent;
+}
+.Retngulo_1_bv {
+	position: absolute;
+	overflow: visible;
+	width: 1090px;
+	height: 77px;
+	left: 0px;
+	top: 0px;
+}
+#HOME_bw {
+	left: 731.606px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: HOME.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(112,112,112,1);
+}
+#SOBRE_bx {
+	left: 811.941px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(112,112,112,1);
+}
+#SERVIOS_by {
+	left: 893px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: SERVICOS.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(112,112,112,1);
+}
+#CONTATO_bz {
+	left: 1012px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: CONTATO.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(112,112,112,1);
+}
+#COMUNICALA_b {
+	left: 18px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 114px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(112,112,112,1);
+}
+#LOGO_OFICIAL_SEM_FUNDO {
+	position: absolute;
+	width: 453px;
+	height: 453px;
+	left: 60px;
+	top: 198px;
+	overflow: visible;
+}
+#A_Comunicala_nasceu_com_o_obje {
+	left: 506.976px;
+	top: 277.6px;
+	position: absolute;
+	overflow: visible;
+	width: 620px;
+	height: 406.4932861328125px;
+	line-height: 40px;
+	margin-top: -10px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(126,128,131,1);
+}
+#quem_somos {
+	position: absolute;
+	width: 313px;
+	height: 69px;
+	left: 659.976px;
+	top: 198px;
+	overflow: visible;
+}
+#Retngulo_32 {
+	fill: rgba(58,51,53,1);
+}
+.Retngulo_32 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1228px;
+	height: 809px;
+	left: 0px;
+	top: 767px;
+}
+#M {
+	position: absolute;
+	width: 197px;
+	height: 195px;
+	left: 146.132px;
+	top: 913px;
+	overflow: visible;
+}
+#V {
+	position: absolute;
+	width: 197px;
+	height: 195.093px;
+	left: 506.976px;
+	top: 913px;
+	overflow: visible;
+}
+#Desenvolver_com_excelncia_a_pr {
+	left: 127px;
+	top: 1141px;
+	position: absolute;
+	overflow: visible;
+	width: 281px;
+	height: 417px;
+	line-height: 40px;
+	margin-top: -10px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(174,175,179,1);
+}
+#Ser_reconhecida_e_consolidar-s {
+	left: 466.974px;
+	top: 1140px;
+	position: absolute;
+	overflow: visible;
+	width: 278px;
+	height: 303px;
+	line-height: 40px;
+	margin-top: -10px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(174,175,179,1);
+}
+#n_Motivao__Comunicao__Confiabi {
+	left: 804px;
+	top: 1141px;
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	height: 300px;
+	line-height: 40px;
+	margin-top: -10px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(174,175,179,1);
+}
+#Nosso_time {
+	left: 245px;
+	top: 1614px;
+	position: absolute;
+	overflow: visible;
+	width: 722px;
+	height: 55px;
+	line-height: 80px;
+	margin-top: -16.5px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 47px;
+	color: rgba(58,51,53,1);
+	text-transform: uppercase;
+}
+#n_uma_mulher_preta_intrprete_d {
+	left: 328px;
+	top: 2068px;
+	position: absolute;
+	overflow: visible;
+	width: 555px;
+	height: 206px;
+	line-height: 40px;
+	margin-top: -10px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(126,128,131,1);
+}
+#elisangela_de_jesus {
+	position: absolute;
+	width: 276px;
+	height: 33.484px;
+	left: 467px;
+	top: 2002.907px;
+	overflow: visible;
+}
+#elis {
+	position: absolute;
+	width: 276px;
+	height: 276px;
+	left: 467px;
+	top: 1715px;
+	overflow: visible;
+}
+#n_uma_mulher_preta_intrprete_d_ce {
+	left: 113px;
+	top: 2729px;
+	position: absolute;
+	overflow: visible;
+	width: 451px;
+	height: 294px;
+	line-height: 40px;
+	margin-top: -10px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(126,128,131,1);
+}
+#n_uma_mulher_preta_tradutora_e {
+	left: 648px;
+	top: 2729px;
+	position: absolute;
+	overflow: visible;
+	width: 451px;
+	height: 263px;
+	line-height: 40px;
+	margin-top: -10px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(126,128,131,1);
+}
+#nathalia_goncalves {
+	position: absolute;
+	width: 294.942px;
+	height: 35.782px;
+	left: 729.077px;
+	top: 2658.718px;
+	overflow: visible;
+}
+#nathalia {
+	position: absolute;
+	width: 276px;
+	height: 276px;
+	left: 747.793px;
+	top: 2374px;
+	overflow: visible;
+}
+#LUANA {
+	position: absolute;
+	width: 276px;
+	height: 276px;
+	left: 187.156px;
+	top: 2374px;
+	overflow: visible;
+}
+#LUANA_MANINI {
+	position: absolute;
+	width: 209px;
+	height: 38px;
+	left: 214.545px;
+	top: 2659px;
+	overflow: visible;
+}
+#n_uma_mulher_preta_intrprete_d_ck {
+	left: 113px;
+	top: 3532px;
+	position: absolute;
+	overflow: visible;
+	width: 451px;
+	height: 255px;
+	line-height: 40px;
+	margin-top: -10px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(126,128,131,1);
+}
+#n_uma_mulher_preta_intrprete_d_cl {
+	left: 648px;
+	top: 3526px;
+	position: absolute;
+	overflow: visible;
+	width: 451px;
+	height: 329px;
+	line-height: 40px;
+	margin-top: -10px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(126,128,131,1);
+}
+#beatriz_silva {
+	position: absolute;
+	width: 207.135px;
+	height: 36.423px;
+	left: 220.688px;
+	top: 3461.789px;
+	overflow: visible;
+}
+#bia {
+	position: absolute;
+	width: 276px;
+	height: 276px;
+	left: 187.156px;
+	top: 3168px;
+	overflow: visible;
+}
+#carol {
+	position: absolute;
+	width: 276px;
+	height: 276px;
+	left: 747.793px;
+	top: 3158px;
+	overflow: visible;
+}
+#caroline_martins {
+	position: absolute;
+	width: 221px;
+	height: 32px;
+	left: 776.499px;
+	top: 3466px;
+	overflow: visible;
+}
+#n_uma_mulher_preta_intrprete_d_cq {
+	left: 113px;
+	top: 4260px;
+	position: absolute;
+	overflow: visible;
+	width: 451px;
+	height: 378px;
+	line-height: 40px;
+	margin-top: -10px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(126,128,131,1);
+}
+#n_uma_mulher_preta_tradutora_e_cr {
+	left: 649px;
+	top: 4260px;
+	position: absolute;
+	overflow: visible;
+	width: 451px;
+	height: 368px;
+	line-height: 40px;
+	margin-top: -10px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(126,128,131,1);
+}
+#gabrielle_martins {
+	position: absolute;
+	width: 259.849px;
+	height: 36.423px;
+	left: 195.01px;
+	top: 4204.789px;
+	overflow: visible;
+}
+#luanary_kaynne {
+	position: absolute;
+	width: 227.268px;
+	height: 36.423px;
+	left: 773.76px;
+	top: 4204.789px;
+	overflow: visible;
+}
+#gaby {
+	position: absolute;
+	width: 276px;
+	height: 276px;
+	left: 187.156px;
+	top: 3910px;
+	overflow: visible;
+}
+#luanary {
+	position: absolute;
+	width: 276px;
+	height: 276px;
+	left: 748.741px;
+	top: 3910px;
+	overflow: visible;
+}
+#Retngulo_33 {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_33 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1228px;
+	height: 2352px;
+	left: 0px;
+	top: 4633px;
+}
+#Nossos_clientes {
+	left: 60px;
+	top: 4730px;
+	position: absolute;
+	overflow: visible;
+	width: 529px;
+	height: 55px;
+	line-height: 80px;
+	margin-top: -16.5px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 47px;
+	color: rgba(58,51,53,1);
+	text-transform: uppercase;
+}
+#parceiros02 {
+	position: absolute;
+	width: 1047.688px;
+	height: 1439px;
+	left: 81.156px;
+	top: 5369px;
+	overflow: visible;
+}
+#DEPOIMENTO {
+	position: absolute;
+	width: 846px;
+	height: 280px;
+	left: 194.211px;
+	top: 4905px;
+	overflow: visible;
+}
+#V_c {
+	position: absolute;
+	width: 197px;
+	height: 195.093px;
+	left: 855.5px;
+	top: 911.407px;
+	overflow: visible;
+}
+#Caminho_29 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Caminho_29 {
+	overflow: visible;
+	position: absolute;
+	width: 3px;
+	height: 371.71px;
+	left: 655px;
+	top: 7020.857px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#GUILHERME_FALCO__STUDIORLSKULL_c {
+	left: 539.525px;
+	top: 7419px;
+	position: absolute;
+	overflow: visible;
+	width: 231px;
+	white-space: nowrap;
+	line-height: 23px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(58,51,53,1);
+}
+#Grupo_39 {
+	position: absolute;
+	width: 338.694px;
+	height: 29px;
+	left: 485.981px;
+	top: 7434px;
+	overflow: visible;
+}
+#Grupo_3_c {
+	position: absolute;
+	width: 14.389px;
+	height: 14.389px;
+	left: 324.306px;
+	top: 2.806px;
+	overflow: visible;
+}
+#Grupo_35_c {
+	position: absolute;
+	width: 14.389px;
+	height: 14.389px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_34_c {
+	position: absolute;
+	width: 14.389px;
+	height: 14.389px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_023_-_TODOS_OS_DIREITOS_RESE_c {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 325px;
+	height: 29px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 17px;
+	color: rgba(58,51,53,1);
+}
+#A_Comunicala_vem_com_a_propost_c {
+	left: 141px;
+	top: 7208px;
+	position: absolute;
+	overflow: visible;
+	width: 182px;
+	height: 185px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(126,128,131,1);
+}
+#MAPA_DO_SITE_c {
+	left: 420.906px;
+	top: 7088px;
+	position: absolute;
+	overflow: visible;
+	width: 138px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(247,147,30,1);
+}
+#HOME_da {
+	left: 508.507px;
+	top: 7149px;
+	position: absolute;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(126,128,131,1);
+}
+#SERVIOS_db {
+	left: 507.985px;
+	top: 7265px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(126,128,131,1);
+}
+#CONTATO_dc {
+	left: 509.987px;
+	top: 7323px;
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(126,128,131,1);
+}
+#SOBRE_dd {
+	left: 508.387px;
+	top: 7207px;
+	position: absolute;
+	overflow: visible;
+	width: 52px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(126,128,131,1);
+}
+#CONTATOS_de {
+	left: 880.132px;
+	top: 7088px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(247,147,30,1);
+}
+#telefone_df {
+	position: absolute;
+	width: 55.39px;
+	height: 55.39px;
+	left: 788.453px;
+	top: 7166px;
+	overflow: visible;
+}
+#n_1_99931-7989_dg {
+	left: 875.993px;
+	top: 7180.576px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(126,128,131,1);
+}
+#Grupo_40 {
+	position: absolute;
+	width: 361.147px;
+	height: 40.246px;
+	left: 748.265px;
+	top: 7310.754px;
+	overflow: visible;
+}
+#LOGO_OFICIAL_COM_FUNDO_di {
+	position: absolute;
+	width: 137px;
+	height: 137px;
+	left: 163px;
+	top: 7042px;
+	overflow: visible;
+}
+#Retngulo_51 {
+	fill: rgba(198,216,211,1);
+}
+.Retngulo_51 {
+	position: absolute;
+	overflow: visible;
+	width: 1210px;
+	height: 99px;
+	left: 50px;
+	top: 7472px;
+}
+#Retngulo_52 {
+	fill: rgba(247,147,30,1);
+}
+.Retngulo_52 {
+	position: absolute;
+	overflow: visible;
+	width: 1210px;
+	height: 50px;
+	left: 50px;
+	top: 7493px;
+}
+#Retngulo_53 {
+	fill: rgba(241,90,36,1);
+}
+.Retngulo_53 {
+	position: absolute;
+	overflow: visible;
+	width: 1210px;
+	height: 25px;
+	left: 50px;
+	top: 7518px;
+}
